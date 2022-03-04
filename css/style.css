@@ -1,0 +1,40 @@
+* {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #222222;
+}
+
+body {
+    margin: 0px;
+    padding-right: 50vh;
+    padding-left: 50vh;
+}
+
+img {
+    width: 100vh;
+}
+
+a:link {
+    background-color: transparent; 
+    text-decoration: none;
+    color: #0073c3;
+}
+
+a:visited {
+    background-color: transparent; 
+    text-decoration: none;
+    color: #0073c3;
+}
+
+a:hover {
+    background-color: transparent; 
+    text-decoration: none;
+    color: #00cd00;
+}
+
+a:active {
+    background-color: transparent; 
+    text-decoration: none;
+    color: #0073c3;
+}
